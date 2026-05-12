@@ -36,4 +36,4 @@ Photo gallery with a masonry grid layout built with **Astro 6** and **Vanilla CS
 - `public/`: Static assets including the preview image.
 
 ---
-Construido con ❤️ por Sebastian Vasquez
+Built with ❤️ by Sebastian Vasquez
