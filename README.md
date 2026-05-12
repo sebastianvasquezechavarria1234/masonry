@@ -1,13 +1,16 @@
-# Masonry Premium Showcase
+# Masonry 🖼️ 🌌 ♾️ 🎨 ⚡
 
-A high-end, responsive masonry grid layout built with **Astro**, **Tailwind CSS v4**, and **Vanilla CSS**.
+Photo gallery with a masonry grid layout built with **Astro 6** and **Vanilla CSS**. Loads images in batches via infinite scroll using the Intersection Observer API, with staggered entrance animations and a responsive dark mode design.
+
+![Preview](public/preview.png)
 
 ## ✨ Features
 
 - **Premium Design**: Dark mode aesthetic with glassmorphism and modern typography.
 - **Responsive Masonry**: Fluid multi-column layout that adapts to all screen sizes.
-- **Dynamic Animations**: Smooth transitions, hover effects, and interactive card overlays.
-- **Modern Tech Stack**: Astro 6, Tailwind CSS 4, and CSS Grid/Columns.
+- **Infinite Scroll**: Images load in batches using the Intersection Observer API.
+- **Dynamic Animations**: Smooth staggered entrance transitions and hover effects.
+- **Modern Tech Stack**: Astro 6, Tailwind CSS 4, and Vanilla CSS.
 
 ## 🚀 Getting Started
 
@@ -28,9 +31,9 @@ A high-end, responsive masonry grid layout built with **Astro**, **Tailwind CSS 
 
 ## 📂 Project Structure
 
-- `src/pages/index.astro`: Main page with the masonry grid implementation.
+- `src/pages/index.astro`: Main page with the masonry grid and infinite scroll logic.
 - `src/styles/global.css`: Global styles including Tailwind 4 integration and custom design system.
-- `public/`: Assets like AI-generated images.
+- `public/`: Static assets including the preview image.
 
 ---
 Built with ❤️ by Antigravity
