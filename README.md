@@ -36,4 +36,4 @@ Photo gallery with a masonry grid layout built with **Astro 6** and **Vanilla CS
 - `public/`: Static assets including the preview image.
 
 ---
-Built with ❤️ by Antigravity
+Construido con ❤️ por Sebastian Vasquez
